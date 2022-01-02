@@ -1,0 +1,12 @@
+name: TFOTM
+main: TFOTM\TFOTM
+version: 2.0.0
+api: [1.11.0]
+load: POSTWORLD
+author: FUGAMARU
+authors: [FUGAMARU]
+description: The fate of the money(お金の運命)
+website: http://fugamaru.webcrow.jp
+commands:
+ bas:
+  description: "TFOTMのコマンド一覧を表示します"
